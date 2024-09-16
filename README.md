@@ -2,6 +2,8 @@
 
 This project is part of the **FreeCodeCamp** curriculum, where you'll create a **Tribute Page** to honor a person, group, or event of your choice.
 
+[Tribute Page](https://freecodecamp-responsive-web-design.github.io/tribute-page/)
+
 ## In this project, you will:
 - Design a **web page** that showcases information about your chosen tribute subject using **HTML** and **CSS**.
 - Implement **HTML** elements such as headings, paragraphs, images, and links to present content effectively.
